@@ -92,18 +92,22 @@ button:hover{
 #card1{
     background-image: url(pic-1.png);  
     transition-duration: 0.5s;
+    cursor: pointer;
 }
 #card2{
     background-image: url(pic-2.png);  
     transition-duration: 0.5s;
+    cursor: pointer;
 }
 #card3{
     background-image: url(pic-3.png);  
     transition-duration: 0.5s;
+    cursor: pointer;
 }
 #card4{
     background-image: url(pic-4.png); 
     transition-duration: 0.5s; 
+    cursor: pointer;
 }
 #card1:hover{
     transform: translateY(-10px);
